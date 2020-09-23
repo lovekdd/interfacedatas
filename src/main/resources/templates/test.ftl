@@ -85,8 +85,8 @@
         <div class="eui-margin-top-10" id="listoper">
             <div class="eui-coolbar-container eui-coolbar-btngray" _selectabletype_="false" style="user-select: none; padding-left: 0px;">
                 <ul id="listoperband" class="eui-coolbar-group">
-                    <li id="ESEN$ECoolElement24" class="eui-coolbar-item"><span class="eui-coolbar-item-text">新增</span></li>
-                    <li id="ESEN$ECoolElement25" class="eui-coolbar-item"><span class="eui-coolbar-item-text">删除</span></li>
+                    <li id="ECoolElement24" class="eui-coolbar-item"><span class="eui-coolbar-item-text">新增</span></li>
+                    <li id="ECoolElement25" class="eui-coolbar-item"><span class="eui-coolbar-item-text">删除</span></li>
                 </ul>
                 <span class="eui-coolbar-more" title="显示列表" style="display: none;">0</span>
             </div>
